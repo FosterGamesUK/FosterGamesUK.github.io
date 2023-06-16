@@ -1,0 +1,1108 @@
+<main entries> Background Story; Characters; Locations
+
+# Background Story
+
+<name> Background Story
+<icon> 189
+<subentries> Page 1; Page 2; Page 3; Page 4; Page 5; Page 6
+<text>
+Here lies the story of the Realm of Odaria.
+<end entry>
+
+#Page 1
+
+<name> Page 1
+<text>
+The City of Odaria was the centre of the Odarian 
+Kingdom.It housed the monarchy. The first ruler was 
+King Loras the first of House Berken. The monarchy 
+ruled for over half a millenia until under the rule 
+of King Stefon the third of House Berken the city 
+suffered its demise.
+<end entry>
+
+#Page 2
+
+<name> Page 2
+<text>
+It was under Stefons rule that his royal advisers 
+grew hungry for power each one willing to stab the 
+other in the back for a chance to climb up to the 
+next rung on the ladder. With the leaders of the 
+city turning on eachother it wasn't long before the 
+civillians began choosing sides. When Stefon was 
+made aware of what was taking place within his 
+kingdom it was already too late. What followed was 
+out of his hands civil war after civil war deepened 
+the divide within the City of Odaria.
+<end entry>
+
+#Page 3
+
+<name> Page 3
+<text>
+The countless wars bled the city's wealth and 
+supplies dry to the point that it could no longer 
+sustain itself. The people grew tired of the mess 
+they were in and passed the blame to King Stefon. 
+They had him executed. Not long after the beings of 
+magic left the city fleeing back to the realm of 
+magic.
+<end entry>
+
+#Page 4
+
+<name> Page 4
+<text>
+The Great War took place when the people turned on 
+the leaders. So many people died that th few who
+survived fled to the other regions. The City of 
+Odaria eventually collapsed, with the centre of the 
+kingdom gone Kingdom of Odaria eroded away from 
+within. The kingdoms broke up and began to take care 
+of themselves whilst Odaria was left behind in the 
+past.
+<end entry>
+
+#Page 5
+
+<name> Page 5
+<text>
+It turns out that Roswell was behind the fall of 
+Odaria he had planned to takeover the kingdom for 
+himself. However he realised that on his own he 
+wouldnt be able to overpower the King of the other 
+advisers. He took his time manipulating each of the 
+advisers turning them on one another. As the closest 
+adviser to the King he chose to wait before he 
+informed Stefon that advisers had turned and the 
+people were divided. This was to help ensure that it 
+was too late to be fixed. Roswell then began to
+convince the people that the source of their problem 
+was King Stefon. Once he was executed Roswell needed 
+to ensure that he would go unchallenged and so he 
+sought to take out all the beings who possessed magic. 
+He began killing them off and sealed of the portal to 
+the Realm of Magic. 
+<end entry>
+
+#Page 6
+
+<name> Page 6
+<text>
+Only a few beings that possessed 
+the ability of magic survived such as the City 
+Guardians, King Luther and Roswell himself. Everything 
+was going to his plan until the Great War took place 
+it destroyed the city and killed the majority of the 
+population. Roswell left Odaria using the two prince 
+to fulfil his plan. He came back to the ruins of 
+Odaria with the intention to rebuild the city for his 
+own.
+<end entry>
+
+#Characters
+
+<name> Characters
+<icon> 84
+<subentries> Cedric; Idelle; Richard; Leya; Morgana; Dormato; Roswell; Prince Lansee; Prince Forlin; Prince Hagar; Queen Rosa; King Luther; King Aron; Queen Alina; Adelaide; Wallace; Lady Alexina; Clayton; Queen Eudora; Queen Imogene; Norma; Claire; Ivan; King Eldwin; Cedric II; Idelle II; Richard II; Leya II; Morgana II; Dormato II; Roswell II; Prince Lansee II; Prince Forlin II; Prince Hagar II; Queen Rosa II; King Aron II; Queen Alina II; Idelle III; Dormato III; Queen Rosa III; Lord Comyn; Lord Giffard; Priest Mansel; Priest Mansel II; Rossmaur Assassin; Lord Ravenot; Judge Campion; Commander Talvace; Time Keeper; Jolicia; Jolicia II; Lord Mustel; Lord Mustel II; Lord Mustel III; Lord Halacre; Lord Halacre II; Lord Halacre III; Lord Ormond; Lord Ormond II; Lord Ormond III; Lord Orlebar; Lord Craon; Lord Altard
+<text>
+Here lies information of the people that Cedric has met 
+on his journey throughout the realm.
+<end entry>
+
+#Idelle
+
+<name> Idelle
+<picture> Idelle
+<text>
+Lady Idelle Haffenden is the eldest daughter of 
+Morgana and Lucion Haffenden. She is extremely 
+"ladylike" and suited to the finer things in life. 
+She can come across as rude sometimes in her 
+failure to understand that others dont live with 
+the same standards as her.
+<end entry>
+
+#Leya
+
+<name> Leya
+<picture> Leya
+<text>
+Lady Leya is no "lady" by traditional standards as 
+she is sharp tongued and adventurous. Always 
+questioning the status quo. She'd rather be a 
+soldier than a lords wife. It never made sense to 
+anyone as surely you'd want the easier and safer 
+job?
+<end entry>
+
+#Morgana
+
+<name> Morgana
+<picture> Mother
+<text>
+Lady Morgana Haffenden is the mother of Cedric, 
+Idelle, Richard and Leya. She is also the widow 
+of Lucion Haffenden. She is always looking out 
+for her children and can sometimes be seen as 
+controlling.
+<end entry>
+
+#Cedric
+
+<name> Cedric
+<picture> Cedric
+<text>
+Lord Cedric Haffenden is the youngest son of Morgana 
+and Lucion Haffenden.He is also the brother of 
+Idelle, Richard and Leya Haffenden. He is seen as
+stubborn and always wanting to prove himself. He 
+hopes to be seen as a phenomenal fighter just like 
+his father was.
+<end entry>
+
+#Richard
+
+<name> Richard
+<picture> Richard
+<text>
+Lord Richard Haffenden is Cedric's older brother. He 
+is the eldest child of Morgana and Lucion Haffenden. 
+He is noble and very political. He is the next Lord 
+of Haffenden.
+<end entry>
+
+#Dormato
+
+<name> Dormato
+<picture> Dormato
+<text>
+Prince Dormato of Luthania is the son of King Luther 
+and Queen Rosa. He set to rule after King Luther. He 
+is the dreamy type that all the ladies fall for. 
+He's good at pretty much everything.
+<end entry>
+
+#Roswell
+
+<name> Roswell
+<picture> Roswell
+<text>
+Roswell was the adviser to Princes Hagar and Forlin 
+of Rinsar he has since taken control of Rinsar, 
+Deer and Lamar to form a kingdom of his own.
+<end entry>
+
+#Prince Lansee
+
+<name> Prince Lansee
+<picture> Prince Lansee
+<text>
+Prince Lansee is the eldest of the three princes of 
+Rinsar. He is the heir to the Rinsarian Throne 
+however is barely holding onto it with Princes 
+Hagar and Forlin vying to remove him from the 
+throne.
+<end entry>
+
+#Prince Forlin
+
+<name> Prince Forlin
+<picture> Prince Forlin
+<text>
+Prince Forlin is the twin brother of Prince Hagar 
+and one of the three princes of Rinsar. He wants 
+the Rinsarian throne although it doesnt seem as 
+though he realises that their can only be one 
+ruler.
+<end entry>
+
+#Prince Hagar
+
+<name> Prince Hagar
+<picture> Prince Hagar
+<text>
+Prince Hagar is the twin brother of Prince 
+Forlin and one of the three princes of Rinsar. 
+Like his brother he is consumed by his desire 
+for the throne. He believes that his elder 
+brother shouldnt be king.
+<end entry>
+
+#Queen Rosa
+
+<name> Queen Rosa
+<picture> Queen Rosa
+<text>
+Queen Rosa is the mother of Prince Dormato she 
+is also the wife of King Luther. She can come 
+across as cold towards those she deems a 
+threat. However she has a soft loving heart to 
+those she holds dear. She wants to see Dormato
+ascend to the throne in good condition.
+<end entry>
+
+#King Luther
+
+<name> King Luther
+<picture> King Luther
+<text>
+King Luther was the King of Luthania and the 
+father of Dormato. He appeared to have gone 
+crazy in the last couple of weeks before his 
+death. He was enveloped in his lust for 
+power and control even locking his son away, 
+seeing him as a potential threat. It was
+this same craziness that lead to his defeat 
+by Cedric after challenging him. He however 
+did posess some deadly abilities being able 
+to wield fire.
+<end entry>
+
+#King Aron
+
+<name> King Aron
+<picture> King Aron
+<text>
+King Aron is the King of Hyde he is 
+generous in providing for his friends and 
+family, willing to help those in need. 
+However is known to have a stubborn streak 
+when pushed.
+<end entry>
+
+#Queen Alina
+
+<name> Queen Alina
+<picture> Queen Alina
+<text>
+Queen Alina is the Queen of Payne. She is 
+brave and head strong always taking things 
+on straight away.
+<end entry>
+
+#Adelaide
+
+<name> Adelaide
+<picture> Adelaide
+<text>
+Adelaide is a woman who comes from the 
+workers faction in Innes. She has 
+difficulties in believing things can get 
+better without radical change. She is 
+determined to make better conditions for 
+the workers.
+<end entry>
+
+#Wallace
+
+<name> Wallace
+<picture> Wallace
+<text>
+Wallace is a man that has been 
+mistreated by the aristocracy in Innes. 
+He is very fragile. He is a witness to 
+issues in Innes.
+<end entry>
+
+#Lady Alexina
+
+<name> Lady Alexina
+<picture> Lady Alexina
+<text>
+Lady Alexina is a lady of the 
+aristocracy. She claims to have been 
+mistreated by the workers in Innes. She 
+is a witness to the issues in Innes.
+<end entry>
+
+#Clayton
+
+<name> Clayton
+<picture> Clayton
+<text>
+Clayton is a man from the aristocracy 
+faction in Innes. He comes across as 
+arrogant and ignorant to the lives of 
+workers.He believes in the current 
+system operating in Innes and is 
+willing to do anything to uphold it.
+<end entry>
+
+#Queen Eudora
+
+<name> Queen Eudora
+<picture> Queen Eudora
+<text>
+Queen Eudora is the Queen of Rouge. 
+She comes across as rather dark and 
+mysterious but then again so does 
+the rest of her kingdom.
+<end entry>
+
+#Queen Imogene
+
+<name> Queen Imogene
+<picture> Queen Imogene
+<text>
+Queen Imogene is the Queen of 
+Rossmaur she is extremely beautiful 
+to look at. She seems to be very 
+innocent and honest and has a strong 
+heart going out of her way to ensure 
+the safety of Rossmaur.
+<end entry>
+
+#Norma
+
+<name> Norma
+<picture> Norma
+<text>
+Norma is the royal trainer for Cedric 
+at the castle in Haffenden. She is 
+training him to be a better fighter. 
+She sometimes forgets her place and 
+sees Cedric as a friend than her Lord.
+<end entry>
+
+#Claire
+
+<name> Claire
+<picture> Claire
+<text>
+Claire is a young girl in Luthania who 
+aspires to be a fighter and compete in 
+the Alphea Tournament. She has a lot of 
+promise.
+<end entry>
+
+#Ivan
+
+<name> Ivan
+<picture> Ivan
+<text>
+Ivan is a young boy in Luthania who 
+helped Cedric find a way into the castle. 
+He seems to know Luthania like the back 
+of his mind. He may prove to be even more 
+useful.
+<end entry>
+
+#King Eldwin
+
+<name> King Eldwin
+<picture> King Eldwin
+<text>
+King Eldwin is the King of Grispon. He 
+is one of the few older kings left. He 
+has a time chamber that helps him 
+predict events.
+<end entry>
+
+#Idelle
+
+<name> Idelle II
+<picture> Idelle
+<text>
+Lady Idelle Haffenden is the eldest daughter of 
+Morgana and Lucion Haffenden. She is extremely 
+"ladylike" and suited to the finer things in life. 
+She can come across as rude sometimes in her 
+failure to understand that others dont live with 
+the same standards as her.
+
+Queen Idelle is the recently crowned 
+ruler of Luthania she is married to 
+their king, King Dormato. She is
+expected to produce heirs at some 
+point to strenghtenhers and Dormato's 
+claim to the throne.
+<end entry>
+
+#Leya
+
+<name> Leya II
+<picture> Leya
+<text>
+Lady Leya is no "lady" by traditional standards as 
+she is sharp tongues and adventurous. Always 
+questioning the status quo. She'd rather be a 
+soldier than a lords wife. It never made sense to 
+anyone as surely you'd want the easier and safer 
+job?
+
+Since arriving in Luthania she has 
+been missing. Most presume she is dead 
+however they havent found her body, it 
+doesnt make sense at all.
+<end entry>
+
+#Mother
+
+<name> Morgana II
+<picture> Mother
+<text>
+Lady Morgana Haffenden is the mother of Cedric, 
+Idelle, Richard and Leya. She is also the widow 
+of Lucion Haffenden. She is always looking out 
+for her children and can sometimes be seen as 
+controlling.
+
+She was killed not long after arriving 
+in Luthania by King Luther.
+<end entry>
+
+#Cedric
+
+<name> Cedric II
+<picture> Cedric
+<text>
+Lord Cedric Haffenden is the youngest son of Morgana 
+and Lucion Haffenden.He is also the brother of 
+Idelle, Richard and Leya Haffenden. He is seen as
+stubborn and always wanting to prove himself. He 
+hopes to be seen as a phenomenal fighter just like 
+his father was.
+
+Having saved the realm from Roswell, 
+Cedric's new goal is to help aid in the rebirth 
+of the realm of Odaria.
+<end entry>
+
+#Richard
+
+<name> Richard II
+<picture> Richard
+<text>
+Lord Richard Haffenden is Cedric's older brother. He 
+is the eldest child of Morgana and Lucion Haffenden. 
+He is noble and very political. He is the next Lord 
+of Haffenden.
+
+Being the leader of the House of Haffenden has 
+put Richard in a position where he feels he has 
+a duty to take on difficult situations as it's 
+his responsibility to make sure everything is 
+fine.
+<end entry>
+
+#Dormato
+
+<name> Dormato II
+<picture> Dormato
+<text>
+Prince Dormato of Luthania is the son of King Luther 
+and Queen Rosa. He set to rule after King Luther. He 
+is the dreamy type that all the ladies fall for. 
+He's good at pretty much everything.
+
+Now that he is King he is married to Queen 
+Idelle. He is doing his best to ensure the 
+safety of Luthania and its allies.
+<end entry>
+
+#Roswell
+
+<name> Roswell II
+<picture> Roswell
+<text>
+Roswell was the adviser to Princes Hagar and Forlin 
+of Rinsar he has since taken control of Rinsar, 
+Deer and Lamar to form a kingdom of his own.
+
+It turns out Roswell was behind the whole fiasco 
+that took place in Odaria. He had planned all 
+along to take over Odaria.
+<end entry>
+
+#Prince Lansee
+
+<name> Prince Lansee II
+<picture> Prince Lansee
+<text>
+Prince Lansee is the eldest of the three princes of 
+Rinsar. He is the heir to the Rinsarian Throne 
+however is barely holding onto it with Princes 
+Hagar and Forlin vying to remove him from the 
+throne.
+
+He was killed after Princes Forlin and Hagar 
+took control of Rinsar.
+<end entry>
+
+#Prince Forlin
+
+<name> Prince Forlin II
+<picture> Prince Forlin
+<text>
+Prince Forlin is the twin brother of Prince Hagar 
+and one of the three princes of Rinsar. He wants 
+the Rinsarian throne although it doesnt seem as 
+though he realises that their can only be one 
+ruler.
+
+He was defeated by Cedric when he stormed the 
+castle in Deer.
+<end entry>
+
+#Prince Hagar
+
+<name> Prince Hagar II
+<picture> Prince Hagar
+<text>
+Prince Hagar is the twin brother of Prince 
+Forlin and one of the three princes of Rinsar. 
+Like his brother he is consumed by his desire 
+for the throne. He believes that his elder 
+brother shouldnt be king.
+
+He was defeated by Cedric when he freed the 
+castle in Lamar.
+<end entry>
+
+#Queen Rosa
+
+<name> Queen Rosa II
+<picture> Queen Rosa
+<text>
+Queen Rosa is the mother of Prince Dormato she 
+is also the wife of King Luther. She can come 
+across as cold towards those she deems a 
+threat. However she has a soft loving heart to 
+those she holds dear. She wants to see Dormato
+ascend to the throne in good condition.
+
+She has become the Queen Mother since Dormato 
+began his reign and has taken Idelle under her 
+wing.
+<end entry>
+
+#King Aron
+
+<name> King Aron II
+<picture> King Aron
+<text>
+King Aron is the King of Hyde he is 
+generous in providing for his friends and 
+family, willing to help those in need. 
+However is known to have a stubborn streak 
+when pushed.
+
+Somehow throughout the invasion of Teslon he 
+managed to hold on to his castle.
+<end entry>
+
+#Queen Alina
+
+<name> Queen Alina II
+<picture> Queen Alina
+<text>
+Queen Alina is the Queen of Payne. She is 
+brave and head strong always taking things 
+on straight away.
+
+She has a love for the game "Defend and Conquer".
+<end entry>
+
+#Idelle
+
+<name> Idelle III
+<picture> Idelle
+<text>
+Lady Idelle Haffenden is the eldest daughter of 
+Morgana and Lucion Haffenden. She is extremely 
+"ladylike" and suited to the finer things in life. 
+She can come across as rude sometimes in her 
+failure to understand that others dont live with 
+the same standards as her.
+
+Queen Idelle is the recently crowned 
+ruler of Luthania she is married to 
+their king, King Dormato. She is
+expected to produce heirs at some 
+point to strenghtenhers and Dormato's 
+claim to the throne.
+
+Idelle is the mother of Odaris the prince and heir
+to the Odarian throne.
+<end entry>
+
+#Dormato
+
+<name> Dormato III
+<picture> Dormato
+<text>
+Prince Dormato of Luthania is the son of King Luther 
+and Queen Rosa. He set to rule after King Luther. He 
+is the dreamy type that all the ladies fall for. 
+He's good at pretty much everything.
+
+Now that he is King he is married to Queen 
+Idelle. He is doing his best to ensure the 
+safety of Luthania and its allies.
+
+As King of Odaria it will be his responsibility 
+to rebuild the Kingdom of Odaria.
+<end entry>
+
+#Queen Rosa
+
+<name> Queen Rosa III
+<picture> Queen Rosa
+<text>
+Queen Rosa is the mother of Prince Dormato she 
+is also the wife of King Luther. She can come 
+across as cold towards those she deems a 
+threat. However she has a soft loving heart to 
+those she holds dear. She wants to see Dormato
+ascend to the throne in good condition.
+
+She has become the Queen Mother since Dormato 
+began his reign and has taken Idelle under her 
+wing.
+
+Queen Rosa has also become a grandmother due to 
+the birth of Odaris.
+<end entry>
+
+#Lord Comyn
+
+<name> Lord Comyn
+<picture> Lord Comyn Face
+<text>
+Lord Comyn is one of the lords that are in King
+Arons special council.
+<end entry>
+
+#Lord Giffard
+
+<name> Lord Giffard
+<picture> Lord Giffard Face
+<text> 
+Lord Giffard is one of the lords that are in
+King Arons special council. 
+<end entry>
+
+#Lord Orlebar
+
+<name> Lord Orlebar
+<picture> Lord Orlebar Face
+<text> 
+Lord Orlebar is one of the lords that are in
+King Arons special council.
+<end entry>
+
+#Lord Craon
+
+<name> Lord Craon
+<picture> Lord Craon Face
+<text>
+Lord Craon is one of the lords that are in King
+Arons special council.
+<end entry>
+
+#Lord Altard
+
+<name> Lord Altard
+<picture> Lord Altard Face
+<text>
+Lord Altard is one of the lords that are in King
+Arons special council.
+<end entry>
+
+#Lord Mustel
+
+<name> Lord Mustel
+<picture> Lord Mustel Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+City Square of Rinsar. Lord Mustel was against
+helping Prince Lansee defend against his
+brothers even willing to put a fight over it.
+<end entry>
+
+#Lord Mustel
+
+<name> Lord Mustel II
+<picture> Lord Mustel Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+City Square of Rinsar. Lord Mustel was against
+helping Prince Lansee defend against his
+brothers even willing to put a fight over it.
+
+Lord Mustel also refused to help in the removal
+of Roswell as he believed Roswell was a benefit
+to him.
+<end entry>
+
+#Lord Mustel
+
+<name> Lord Mustel III
+<picture> Lord Mustel Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+City Square of Rinsar. Lord Mustel was against
+helping Prince Lansee defend against his
+brothers even willing to put a fight over it.
+
+Lord Mustel also refused to help in the removal
+of Roswell as he believed Roswell was a benefit
+to him.
+
+After attending trial, Lord Mustel was executed
+in the City Square.
+<end entry>
+
+#Lord Halacre
+
+<name> Lord Halacre
+<picture> Lord Halacre Face
+<text> 
+Lord Halacre resides at the Halacre Manor in
+the East End of Rinsar's City Square. When
+approached Lord Halacre flat out refused any
+notion to help Prince Lansee in fighting off
+his two younger brothers Prince Forlin and
+Prince Hagar.
+<end entry>
+
+#Lord Halacre
+
+<name> Lord Halacre II
+<picture> Lord Halacre Face
+<text> 
+Lord Halacre resides at the Halacre Manor in
+the East End of Rinsar's City Square. When
+approached Lord Halacre flat out refused any
+notion to help Prince Lansee in fighting off
+his two younger brothers Prince Forlin and
+Prince Hagar.
+
+Lord Halacre was against helping take back
+control of Rinsar from Roswell.
+<end entry>
+
+#Lord Halacre
+
+<name> Lord Halacre III
+<picture> Lord Halacre Face
+<text> 
+Lord Halacre resides at the Halacre Manor in
+the East End of Rinsar's City Square. When
+approached Lord Halacre flat out refused any
+notion to help Prince Lansee in fighting off
+his two younger brothers Prince Forlin and
+Prince Hagar.
+
+Lord Halacre was against helping take back
+control of Rinsar from Roswell.
+
+After attending trial, Lord Halacre was
+executed in the City Square.
+<end entry>
+
+#Lord Ormond
+
+<name> Lord Ormond
+<picture> Lord Ormond Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+Lord Ormond lives at the Ormond Manor in the
+West End of Rinsar's City Square. When
+aproached Lord Ormond was one of the lord who
+happened to refuse to help Prince Lansee in
+holding onto the throne.
+<end entry>
+
+#Lord Ormond
+
+<name> Lord Ormond II
+<picture> Lord Ormond Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+Lord Ormond lives at the Ormond Manor in the
+West End of Rinsar's City Square. When
+aproached Lord Ormond was one of the lord who
+happened to refuse to help Prince Lansee in
+holding onto the throne.
+
+Lord Ormond supported keeping Roswell in power.
+<end entry>
+
+#Lord Ormond
+
+<name> Lord Ormond III
+<picture> Lord Ormond Face
+<text> 
+Lord Mustel resides at the Mustel Manor in the
+Lord Ormond lives at the Ormond Manor in the
+West End of Rinsar's City Square. When
+aproached Lord Ormond was one of the lord who
+happened to refuse to help Prince Lansee in
+holding onto the throne.
+
+Lord Ormond supported keeping Roswell in power.
+
+After attending trial, Lord Ormond was executed
+in the City Square.
+<end entry>
+
+#Judge Campion
+
+<name> Judge Campion
+<picture> Judge Campion Face
+<text> 
+Judge Campion is the High Judge of the Royal
+Court of Justice in Rinsar. He oversees various
+trials that take place within the Kingdom of
+Rinsar. He oversaw and passed judgement on the
+trials of Lord Halacre, Lord Ormond and Lord
+Mustel.
+<end entry>
+
+#Commander Talvace
+
+<name> Commander Talvace
+<picture> Commander Talvace Face
+<text> 
+Commander Talvace is the head of the Luthanian
+Army. He is one of the ebst war strategists in
+the realm.
+<end entry>
+
+#Time Keeper
+
+<name> Time Keeper
+<picture> Time Keeper Face
+<text> 
+The Time Keeper watches the ancient Time
+Temple in Grispon. No one is exactly sure how
+the time keepers are chosen but they carry
+out the duty without hesitaton. They
+themselves have no powers but are able to use
+the mystical powers that the Time Temple seems
+to have.
+<end entry>
+
+#Jolicia
+
+<name> Jolicia
+<picture> Jolicia Face
+<text> 
+Richard seems to have become infatuated with
+this common girl named Jolicia. She believes
+her and Richard are destined for eachother
+despite him being promised to Reyanah of
+House Randall. She really thinks it can work.
+<end entry>
+
+#Jolicia
+
+<name> Jolicia II
+<picture> Jolicia Face
+<text> 
+Richard seems to have become infatuated with
+this common girl named Jolicia. She believes
+her and Richard are destined for eachother
+despite him being promised to Reyanah of
+House Randall. She really thinks it can work.
+
+No one has seen Jolicia since Richard ended
+things with her. Maybe she went home.
+<end entry>
+
+#Priest Mansel
+
+<name> Priest Mansel
+<picture> Priest Mansel Face
+<text> 
+Priest Mansel is head of the Sterace in
+Haffenden. He is devout to the Order of the
+Nine and believes that society should be ran
+according to the Holy Scriptures.
+<end entry>
+
+#Priest Mansel
+
+<name> Priest Mansel II
+<picture> Priest Mansel Face
+<text> 
+Priest Mansel is head of the Sterace in
+Haffenden. He is devout to the Order of the
+Nine and believes that society should be ran
+according to the Holy Scriptures.
+
+After failing to take Haffenden for himself
+and the other religous zealots that follows
+him, he has met his untimely end. Now he can
+face his own judgement.
+<end entry>
+
+#Rossmaur Assassin
+
+<name> Rossmaur Assassin
+<picture> Rossmaur Assassin Face
+<text> 
+This mysterious assassin that was lurking
+the streets of Rossmaur has many secrets
+that were left uncovered. Unfortunately
+they died, so it will be hard to find the
+answers.
+<end entry>
+
+#Lord Ravenot
+
+<name> Lord Ravenot
+<picture> Lord Ravenot Face
+<text> 
+Lord Ravenot is one of the lords of Rinsar.
+He went against Prince Lansee.
+<end entry>
+
+# Locations
+
+<name> Locations
+<icon> 190
+<subentries> Lamar; Hyde; Rinsar; Luthania; Rouge; Deer; Payne; Grispon; Rossmaur; City of Odaria
+<text>
+Here lies information on places in the Realm of 
+Odaria.
+<end entry>
+
+#Lamar
+
+<name> Lamar
+<text>
+Lamar is known as the "Kingdom of Stone" because 
+it is oldest kingdom in Odaria. It was setup by 
+the ancient Odarians to establish their empire. 
+It was the centre of the region until the capital 
+and seat of power were moved to the City of 
+Odaria. After that Lamar became a kingdom of 
+prosperity as it had some of the most prosperous 
+land in the realm and also acted as a pitstop for 
+those travelling to and from the southern kingdoms.
+Great houses rose and one that stuck was House 
+Haffenden who ruled Lamar for 3 centuries until the 
+princes invasion. Lamars seat of power is in the 
+City of Haffenden.
+<end entry>
+
+#Hyde
+
+<name> Hyde
+<text>
+Hyde is often known as the "Kingdom of the Future" 
+as its innovations are advanced compared to other 
+kingdoms. It helped immensely in the making the 
+City of Odaria become one of the greatest cities 
+the world had ever seen. Hyde is the youngest 
+kingdom in the realm, it came about as the older 
+kingdoms progressed inland. Hyde has been ruled 
+by their royal family for centuries who even 
+regained power after the fall of the City of 
+Odaria. They have been ruling for 20 years now 
+and have seen Hyde advance during their reign.
+Hyde see's alot of trade as it acts as the main
+gateway for people travelling to the City of 
+Odaria from the south. Hydes seat of power is in 
+the City of Teslon.
+<end entry>
+
+#Rinsar
+
+<name> Rinsar
+<text>
+Rinsar is the "Kingdom of Sorcery". They have 
+many mystical powers and tricks up their sleeves. 
+This may be due to their close ties to the lost 
+mystical beings that once roamed Odaria. It is 
+said you can find some of the last remaining 
+witches or wizards here. Rinsars seat of power 
+is in the City of Rinsar.
+<end entry>
+
+#Luthania
+
+<name> Luthania
+<text>
+The Kingdom of Luthania is the largest kingdom 
+in the Odarian Realm. Luthania prides itself on 
+being the only kingdom in the realm to never 
+have been invaded it has stood strong for a long 
+time. Luthania has been ruled by its royal family 
+since the kingdom was founded. Its seat of power 
+is in the City of Odaria.
+<end entry>
+
+#Rouge
+
+<name> Rouge
+<text>
+The Kingdom of Rouge is a dark, mysterious place.
+Rouge has continually sought to expand but its
+plans have always been thwarted by the other
+kingdoms. It is ruled by House Damon. Its seat
+of power is in the City of Rouge.
+<end entry>
+
+#Deer
+
+<name> Deer
+<text>
+Deer is the "Kingdom of Love" as so many people
+seem to fall in love here. It is ruled from the
+City of Deer.
+<end entry>
+
+#Payne
+
+<name> Payne
+<text>
+Payne is known as the "Kingdom of Peace" because
+they prefer not to fight and dont say much. They
+only retaliate when they have no other option.
+Alot of the realms researchers come from here
+operate from the main city Birdtown.
+<end entry>
+
+#Grispon
+
+<name> Grispon
+<text>
+Grispon is the "Kingdom of Steel". They have
+acquired this name because they are notorius
+for being brutishly strong and having the
+best army in the realm. They are hard to
+defeat and are very deadly carrying out some
+extreme punishments.
+<end entry>
+
+#Rossmaur
+
+<name> Rossmaur
+<text>
+The kingdom of Rossmaur is seen as the "Kingdom
+of Beauty". It is believed that a goddess of
+extreme beauty came dwon from the skies and made
+love with the people resulting in such beautiful
+people. The seat of power is in the City of
+Rossmaur.
+<end entry>
+
+#City of Odaria
+
+<name> City of Odaria
+<text>
+The City of Odaria is the centre piece of the
+Realm of Odaria. Once a glorius city, now in 
+its place lies a ruin, a reminder of the past 
+events that once took place here. The City of 
+Odaria isnt ruled by anyone as theres no need to, 
+no one lives here. The city had all the elements 
+of the other kingdoms which helped make it the 
+wonder it was. The magical beigns that roamed 
+here havent been seen since the fall of Odaria.
+<end entry>
